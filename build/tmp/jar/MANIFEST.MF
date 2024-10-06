@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: savagecombat
+Specification-Vendor: savagecombat
+Specification-Version: 1.0
+Implementation-Title: Savage-Combat
+Implementation-Version: 1.0
+Implementation-Vendor: mindfaer
+Implementation-Timestamp: 2024-10-05T22:52:54-0400
+
